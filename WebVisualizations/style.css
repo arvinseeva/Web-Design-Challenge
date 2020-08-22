@@ -15,10 +15,10 @@ body {
   }
   
   .navbar-brand {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Apple Chancery', cursive;
     font-size: 25px;
     font-weight: bolder;
-    background-color: rgb(20, 150, 150);
+    background-color: rgb(23, 53, 184);
     padding: 10px;
     margin-left: 5%;
   }
@@ -45,14 +45,14 @@ body {
   
   .text-left {
     text-align: left;
-    color: rgb(20, 150, 150);
-    font-family: 'Times New Roman', Times, serif;
+    color: rgb(23, 53, 184);
+    font-family: 'Apple Chancery', cursive;
     font-weight: bolder;
   }
   
   .text-center {
-    color: rgb(20, 150, 150);
-    font-family: 'Times New Roman', Times, serif;
+    color: rgbrgb(23, 53, 184);
+    font-family: 'Apple Chancery', cursive;
     font-weight: bolder;
   }
   
